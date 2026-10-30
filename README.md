@@ -73,4 +73,4 @@ README.md
 ## Author
 
 Desire Acquilina Kabagyo, Computer Science graduate, Gulu University.
-[LinkedIn link] | github.com/DESIREAK001
+[LinkedIn link](www.linkedin.com/in/desire-kabagyo-587bb3271) | github.com/DESIREAK001
